@@ -1,0 +1,33 @@
+\contentsline {section}{Vectors and the Geometry of Space}{3}{}%
+\contentsline {subsection}{12.4 Cross Product}{3}{}%
+\contentsline {subsection}{12.5 Equations of lines and vectors}{4}{}%
+\contentsline {subsection}{12.6 Cylinders and Quadric Surfaces}{6}{}%
+\contentsline {section}{Vector Functions}{7}{}%
+\contentsline {subsection}{13.1 Vector valued functions and space curves}{7}{}%
+\contentsline {subsection}{13.2 Derivatives and Integrals of Vector Functions}{7}{}%
+\contentsline {subsection}{13.3 Arc Length and Curvature}{8}{}%
+\contentsline {section}{Partial Derivatives}{9}{}%
+\contentsline {subsection}{14.1 Functions of several variables}{9}{}%
+\contentsline {subsection}{14.2 Limits and Continuity}{10}{}%
+\contentsline {subsection}{14.3 Partial Derivatives}{10}{}%
+\contentsline {subsection}{14.4 Tangent Planes and Linear Approximations}{11}{}%
+\contentsline {subsection}{14.5 The Chain Rule}{12}{}%
+\contentsline {subsection}{14.6 Directional Derivatives and the Gradient Vector}{12}{}%
+\contentsline {subsection}{14.7 Maximum and minimum values}{16}{}%
+\contentsline {subsection}{14.8 Lagrange Multipliers}{17}{}%
+\contentsline {section}{15 Multiple integrals}{18}{}%
+\contentsline {subsection}{15.1 Double Integrals over Rectangles}{18}{}%
+\contentsline {subsection}{15.2 Double Integrals over General Regions}{19}{}%
+\contentsline {subsection}{15.3 Double Integrals in Polar Coordinates}{21}{}%
+\contentsline {subsection}{15.5 Surface Area}{22}{}%
+\contentsline {subsection}{15.6 Triple Integrals}{22}{}%
+\contentsline {subsection}{15.9 Change of variables in multiple integrals}{26}{}%
+\contentsline {section}{16 Vector Calculus}{28}{}%
+\contentsline {subsection}{16.1 Vector Fields}{28}{}%
+\contentsline {subsection}{16.2 Line Integrals}{28}{}%
+\contentsline {subsection}{16.3 The Fundamental Theorem for Line Integrals}{30}{}%
+\contentsline {subsection}{16.4 Green's theorem}{31}{}%
+\contentsline {subsection}{16.5 Curl and Divergence}{31}{}%
+\contentsline {subsection}{16.6 Parametric Surfaces and their areas}{32}{}%
+\contentsline {subsection}{16.7 Surface Integrals}{34}{}%
+\contentsline {subsection}{16.8 Stokes' Theorem}{34}{}%
