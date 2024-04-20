@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1713637051 "/Users/terryqiu/Documents/Math&CS_Notes/math241/notes_241.tex" "notes_241.pdf" "notes_241" 1713637057 0
-  "/Users/terryqiu/Documents/Math&CS_Notes/math241/notes_241.tex" 1713637051 60478 eb722b001a91258c0c326045c05b2ba1 ""
+["pdflatex"] 1713637879 "/Users/terryqiu/Documents/Math&CS_Notes/Math_241_Notes/notes_241.tex" "notes_241.pdf" "notes_241" 1713637885 0
+  "/Users/terryqiu/Documents/Math&CS_Notes/Math_241_Notes/notes_241.tex" 1713637878 60478 eb722b001a91258c0c326045c05b2ba1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -203,9 +203,9 @@
   "images//Type1_2Solid.png" 1711379514 334937 1ac922f274960a3645cb1f0bd0b0516a ""
   "images//VerticallySimple_1.png" 1710865881 75484 a7d6129c2fb6b0900f4f260f067cf792 ""
   "images//VolumeUnderSurface.png" 1710816146 206828 31aaaf549b79001005934e43e15d3f3f ""
-  "notes_241.aux" 1713637057 3540 8df747b148919d203d909174a98fdeef "pdflatex"
-  "notes_241.tex" 1713637051 60478 eb722b001a91258c0c326045c05b2ba1 ""
-  "notes_241.toc" 1713637057 2154 3b8e3c38b40535738854b7ad2e2db7fd "pdflatex"
+  "notes_241.aux" 1713637884 3540 8df747b148919d203d909174a98fdeef "pdflatex"
+  "notes_241.tex" 1713637878 60478 eb722b001a91258c0c326045c05b2ba1 ""
+  "notes_241.toc" 1713637884 2154 3b8e3c38b40535738854b7ad2e2db7fd "pdflatex"
   (generated)
   "notes_241.aux"
   "notes_241.log"
